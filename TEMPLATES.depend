@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1542122856 source:c:\users\usuario\desktop\templates\templates\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1542124418 c:\users\usuario\desktop\templates\templates\include\point.h
+
+1542123933 source:c:\users\usuario\desktop\templates\templates\src\pointarray.cpp
+	"PointArray.h"
+
+1542124608 c:\users\usuario\desktop\templates\templates\include\pointarray.h
+	"Point.h"
+
+1542124190 source:c:\users\usuario\desktop\templates\templates\main.cpp
+	<iostream>
+	"Point.h"
+	"PointArray.h"
+
