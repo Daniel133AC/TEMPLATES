@@ -11,7 +11,7 @@ int main()
     cout<<endl;
     Point<int>  arr[]= {p, q , r};
     int size = sizeof(arr)/sizeof(arr[0]);
-    PointArray<Point> pa2(arr, size);
+    PointArray<Point<int>> pa2(arr, size);
     PointArray pa = pa2;
 
     cout << pa.getSize() << endl;
